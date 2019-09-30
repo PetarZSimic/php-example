@@ -1,0 +1,140 @@
+#main-navbar{
+    
+    background-color: #708090;
+    /*border-bottom: 2px solid black;*/
+    text-align: left;
+}
+
+
+
+nav#main-navbar ul li{
+    display: inline;   
+}
+
+nav#main-navbar ul li a{
+    color: black;
+    font-size: 20px; 
+}
+
+nav#main-navbar ul li a{
+    color: black;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+nav#main-navbar ul a:hover{
+    
+    color: #DC143C;
+}
+
+
+#brand{
+    color: black;
+    
+}
+
+
+
+#adminPage {
+    
+    background-color: blue;
+    
+}
+
+
+
+
+#main-container{
+    
+ width: 1020px;
+ margin: 0px auto 20px auto;
+ background-color: black;    
+    
+    
+}
+#searching{
+    padding: 20px 0 0 0;
+}
+
+
+
+#item {
+    
+    margin-top: 30px;
+}
+
+#adminContainer{
+    
+ width: auto;
+ margin: -24px auto 20px auto;
+ background-color: white; 
+    
+}
+
+
+#formadiv{
+    
+    margin-left: 20px;
+    
+    
+    
+}
+
+#list{
+    padding-left: 20px;
+    margin-top: 20px;
+    
+}
+
+#sorting{
+    
+    background-color: black;
+    opacity: 0.7;
+    margin-top: 20px;
+    border-radius: 30px; 
+    
+}
+
+
+
+#sort-navbar #sort-ul .sort-link {
+    
+    color: white;
+    font-weight: bold;
+    
+    
+}
+
+#sort-navbar #sort-ul .t:hover{
+    
+    color: black;
+    font-weight: bold;
+    
+    
+}
+
+body {
+    
+    background-image: url(images/pozadina.jpg);
+    background-size: cover;
+    
+}
+
+body#adminPage {
+    
+    background-color: white;
+    background-size: cover;
+    
+}
+
+footer{
+    background-color: #708090;
+    
+    
+}
+
+#userAdd {
+    
+    background-color: lemonchiffon;
+    
+}
